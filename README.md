@@ -1,2 +1,2 @@
 # PaisesFelices
-Repositorio para el capítulo "Los países más felices del mundo"
+Repositorio para el artículo "Los países más felices del mundo"
